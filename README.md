@@ -1,17 +1,17 @@
 <h1 align="center">Olá 👋, me chamo Lucas M Cunha.</h1>
-<h3 align="center">Atualmente sou graduando em Análise e Desenvolvimento de Sistemas, pela Faculdade Senac PE. Possuo noções básicas em lógica de programação, estudando e treinando diariamente em JavaScript e Python.</h3>
+<h3 align="center">Atualmente sou graduando em Análise e Desenvolvimento de Sistemas, pela Faculdade Senac PE. Possuo noções básicas em lógica de programação, estudando e treinando diariamente para aprimorar minhas habilidades e conhecimentos adquiridos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username= lucasmocunha&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmocunha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile- trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmocunha" alt="lucasmocunha" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **Análise e Desenvolvimento de Sistemas, Figma, Miro, MYSQL, Node, Power BI...**
+- 🌱 Atualmente estou aprendendo **SQL, JavaScript, Jupyter, Python, Git e Github.**
 
 - 📫 Contato **lumaoldc5@gmail.com**
 
 - 📄 Conheça minhas experiências. [https://www.linkedin.com/in/lucas-m-cunha-9063a0322/](https://www.linkedin.com/in/lucas-m-cunha-9063a0322/)
 
-- ⚡ Curiosidade **Já atuei na área de Artes Visuais, enquanto discente do IFPE, e me considero um arteiro visual.**
+- ⚡ Curiosidade **Já atuei na área de Artes Visuais, enquanto discente do IFPE, e me considero um arteiro visual. Sou gamer e cozinho profissionalmente por aí.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
