@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile- trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmocunha" alt="lucasmocunha" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **SQL, JavaScript, Jupyter, Python, Git e Github.**
+- 🌱 Atualmente estou aprendendo **SQL, JavaScript, Python, Git e Github.**
 
 - 📫 Contato **lumaoldc5@gmail.com**
 
