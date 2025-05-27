@@ -1,26 +1,82 @@
-<h1 align="center">Olá 👋, me chamo Lucas M Cunha.</h1>
-<h3 align="center">Atualmente sou graduando em Análise e Desenvolvimento de Sistemas, pela Faculdade Senac PE. Possuo noções básicas em lógica de programação, estudando e treinando diariamente para aprimorar minhas habilidades e conhecimentos adquiridos.</h3>
+<img align="right" src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Neon-X.glb" alt="Neon character" width="200"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username= lucasmocunha&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmocunha" /> </p>
+# 👋 Olá, eu sou Lucas M. Cunha
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile- trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmocunha" alt="lucasmocunha" /></a> </p>
+🌍 Artista Visual e Desenvolvedor em formação  
+💻 Graduando em **Análise e Desenvolvimento de Sistemas** – Senac PE (2º período)  
+🎯 Foco em **front-end** e criações interativas com **código, imagem e som**  
+🍳 Também sou **Cozinheiro Profissional** com 1430h pelo Senac (spoiler: mando bem na cozinha 😄)
 
-- 🌱 Atualmente estou aprendendo **SQL, JavaScript, Python, Git e Github.**
+---
 
-- 📫 Contato **lumaoldc5@gmail.com**
+## 🚀 Sobre mim
 
-- 📄 Conheça minhas experiências. [https://www.linkedin.com/in/lucas-m-cunha-9063a0322/](https://www.linkedin.com/in/lucas-m-cunha-9063a0322/)
+Sou um criador por natureza. Misturo arte e tecnologia para explorar experiências que fogem do óbvio.  
+Minha vivência periférica e dissidente alimenta meu olhar e meu código — **arte como ferramenta de expressão, ruptura e conexão**.
 
-- ⚡ Curiosidade **Já atuei na área de Artes Visuais, enquanto discente do IFPE, e me considero um arteiro visual. Sou gamer e cozinho profissionalmente por aí.**
+Crio experiências visuais e sonoras, exploro algoritmos como linguagem estética e acredito que a ficção científica diz muito sobre o presente.
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href=" https://linkedin.com/in/https://www.linkedin.com/in/lucas-m-cunha-9063a0322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/lucas-m-cunha-9063a0322/" height="30" width="40" /></a>
-</p>
+> “Produzo arte quando posso subverter.”
 
-<h3 align="left">Idiomas e Ferramentas:</h3 >
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmocunha&show_icons=true&locale=en&layout=compact" alt="lucasmocunha" /></p>
+## 🛠️ Habilidades em prática
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmocunha&" alt="lucasmocunha" /></p>
+**Linguagens e tecnologias**
+- JavaScript | HTML | CSS | Python | Ruby | SQL (MySQL, MSSQL)
+
+**Ferramentas e plataformas**
+- Git & GitHub | Figma | Miro | Docker | Bootstrap  
+- Sonic Pi (sim! faço live coding de som) 🎶
+
+---
+
+## 🧪 Explorando...
+
+✨ **Algorítmica sonora e visual**  
+🎛️ **Live coding** com Sonic Pi  
+🌀 **Ilusões de óptica interativas** com p5.js  
+🎨 Ilustração & animação  
+📦 Modelagem 3D (iniciando!)
+
+---
+
+## 📚 Interesses
+
+🧠 Arte generativa, computação criativa  
+🚀 Ficção científica (sou fã dos clássicos cyberpunk)  
+🎮 FPS e RPG de ação  
+📖 Livros favoritos (ou quase lidos 😂):
+- *Stranger in a Strange Land*  
+- *Neuromancer*  
+- *Count Zero*  
+- *Mona Lisa Overdrive*
+
+---
+
+## 🤝 Conecte-se comigo
+
+📫 **Email:** lumaoldc5@gmail.com  
+🔗 **LinkedIn:** [lucas-m-cunha](https://www.linkedin.com/in/lucas-m-cunha-9063a0322/)  
+
+---
+
+## 🧬 Personagens do meu universo
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/jynx-punk.glb" alt="Jynx character" width="200"/>
+<br/>
+<strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
+
+---
+
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/Neon-X.glt" alt="Neon character" width="200"/>
+<br/>
+<strong>Neon</strong> — pulsa na velocidade do código. Vibra com cores e BPMs
+
+</div>
+
+---
+
+> _Código, arte e cozinha: os três temperos que fazem meu mundo girar._
