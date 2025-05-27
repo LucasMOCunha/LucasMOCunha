@@ -65,8 +65,9 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/jynx-punk.glb" alt="Jynx character" width="200"/>
-<br/>
+<div class="col-md-6">
+          <button class="btn btn-outline-info w-100" onclick="openModal('jynx-punk.glb')" alt="Jynx"</button> width="200">
+        </div>
 <strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
 
 ---
