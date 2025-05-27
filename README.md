@@ -66,7 +66,7 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 <div align="center">
 
 <div class="col-md-6">
-          <button class="btn btn-outline-info w-100" onclick="openModal('jynx-punk.glb')" alt="Jynx"</button> width="200">
+          <button class="btn btn-outline-info w-100" onclick="openModal('jynx-punk.glb')">Jynx</button>
         </div>
 <strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
 
