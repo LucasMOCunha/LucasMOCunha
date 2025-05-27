@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Neon-X.glb" alt="Neon character" width="200"/>
-
 # 👋 Olá, eu sou Lucas M. Cunha
 
 🌍 Artista Visual e Desenvolvedor em formação  
@@ -58,25 +56,6 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 📫 **Email:** lumaoldc5@gmail.com  
 🔗 **LinkedIn:** [lucas-m-cunha](https://www.linkedin.com/in/lucas-m-cunha-9063a0322/)  
-
----
-
-## 🧬 Personagens do meu universo
-
-<div align="center">
-
-<div class="col-md-6">
-          <button class="btn btn-outline-info w-100" onclick="openModal('jynx-punk.glb')">Jynx</button>
-        </div>
-<strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
-
----
-
-<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Neon-X.glt" alt="Neon character" width="200"/>
-<br/>
-<strong>Neon</strong> — pulsa na velocidade do código. Vibra com cores e BPMs
-
-</div>
 
 ---
 
