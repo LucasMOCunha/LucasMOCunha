@@ -71,7 +71,7 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 ---
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/Neon-X.glt" alt="Neon character" width="200"/>
+<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Neon-X.glt" alt="Neon character" width="200"/>
 <br/>
 <strong>Neon</strong> — pulsa na velocidade do código. Vibra com cores e BPMs
 
