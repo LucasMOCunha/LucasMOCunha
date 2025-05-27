@@ -52,6 +52,24 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 ---
 
+## 🧬 Alguns Personagens do meu universo
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Jynx.jpeg" alt="Neon character" width="200"/>
+<br/>
+<strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
+
+---
+
+<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/gatinhu.png" alt="Neon character" width="200"/>
+<br/>
+<strong>Neon</strong> — pulsa na velocidade do código. Vibra com cores e BPMs
+
+</div>
+
+---
+
 ## 🤝 Conecte-se comigo
 
 📫 **Email:** lumaoldc5@gmail.com  
