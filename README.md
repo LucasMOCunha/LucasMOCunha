@@ -5,11 +5,11 @@
     <td width="70%">
       Artista Visual e Desenvolvedor em formação  
       <br/>
-      Graduando em **Análise e Desenvolvimento de Sistemas** – Senac PE (2º período)  
+      Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> – Senac PE (2º período)  
       <br/>
-      Foco em **front-end** e criações interativas com **código, imagem e som**  
+      Foco em <strong>front-end</strong> e criações interativas com <strong>código, imagem e som</strong>  
       <br/>
-      Também sou **Cozinheiro Profissional** com 1430h pelo Senac (spoiler: mando bem na cozinha 😄)
+      Também sou <strong>Cozinheiro Profissional</strong> com 1430h pelo Senac (spoiler: mando bem na cozinha 😄)
     </td>
     <td width="30%" align="right" style="border-left: 1px solid #ccc; padding-left: 15px;">
       <img src="autorretrato.png" alt="Autorretrato Lucas M. Cunha" width="120" style="border-radius:8px;"/>
@@ -24,7 +24,7 @@
 ## 🚀 Sobre mim
 
 Sou um criador por natureza. Misturo arte e tecnologia para explorar experiências que fogem do óbvio.  
-Minha vivência periférica e dissidente alimenta meu olhar e meu código — **arte como ferramenta de expressão, ruptura e conexão**.
+Minha vivência periférica e dissidente alimenta meu olhar e meu código — arte como ferramenta de expressão, ruptura e conexão.
 
 > “Produzo arte quando posso subverter.”
 
@@ -78,6 +78,27 @@ Sonic Pi (sim! faço live coding de som) 🎶
 
 ---
 
+<br/>
+
+<img src="dualidade.jpg" alt="Dualidade — Fragmentos em Oposição" width="240"/>  
+
+<h3 align="center">♾️ Dualidade — Fragmentos em Oposição</h3>  
+
+<p align="center">  
+  "Dualidade" é o retrato de um conflito silencioso e constante entre duas forças internas que habitam um só corpo.<br/>  
+  De um lado, a lógica que busca ordem, algoritmos limpos, padrões previsíveis.  
+  Do outro, o caos criativo — um impulso bruto que vê o código como tinta, cada bug como expressão.<br/>  
+  Ambos os lados não se anulam, mas coexistem em tensão produtiva.  
+</p>  
+
+<p align="center">  
+  <strong>Conexão com o Código:</strong> <em>Codificar é lidar com sombras</em><br/>  
+  Enquanto o programador busca clareza, o artista em seu interior insere ruídos, distorções, desvios intencionais.<br/>  
+  "Dualidade" é sobre transformar esse conflito em potência — onde o erro vira linguagem, e o debug, revelação.  
+</p>  
+
+---
+
 <img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Abba.jpg" alt="Abba — Guardião do Eixo Selvagem" width="240"/>
 
 <h3 align="center">🧿 Abba.exe — Guardião do Eixo Selvagem</h3>
@@ -98,3 +119,4 @@ Cada linha escrita com alma ganha memória, intenção e presença.
 if (conexaoComAncestress()) {
   purificar(codigo);
 }
+
