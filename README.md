@@ -3,13 +3,13 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h3>👨‍🎨 Sobre mim</h3>
+      <h3>👋 Sobre mim</h3>
       <ul>
-        <li>🎨 <strong>Artista Visual</strong> autodidata</li>
+        <li>🖌️ <strong>Artista Visual</strong> autodidata e não concluinte pelo <strong>IFPE – Campus Olinda</strong></li>
         <li>👨‍💻 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> – Senac PE (2º período)</li>
-        <li>⚙️ Foco em <strong>Front-End</strong> e criações interativas com <code>código</code>, <code>imagem</code> e <code>som</code></li>
+        <li>💻 Foco em <strong>Front-End</strong> e criações interativas com <code>código</code>, <code>imagem</code> e <code>som</code></li>
         <li>👨‍🍳 <strong>Cozinheiro Profissional</strong> – 1430h pelo Senac (spoiler: mando bem na cozinha 😄)</li>
-        <li>💡 Curioso por <strong>projetos experimentais</strong>, interfaces criativas e tecnologias que conectam pessoas</li>
+        <li>✨ Curioso por <strong>projetos experimentais</strong>, interfaces criativas e tecnologias que conectam pessoas</li>
       </ul>
     </td>
     <td width="30%" align="center" style="border-left: 1px solid #ddd; padding-left: 15px;">
