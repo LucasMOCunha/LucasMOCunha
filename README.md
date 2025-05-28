@@ -2,17 +2,19 @@
 
 <table>
   <tr>
-    <td width="70%">
-      Artista Visual e Desenvolvedor em formação  
-      <br/>
-      Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> – Senac PE (2º período)  
-      <br/>
-      Foco em <strong>front-end</strong> e criações interativas com <strong>código, imagem e som</strong>  
-      <br/>
-      Também sou <strong>Cozinheiro Profissional</strong> com 1430h pelo Senac (spoiler: mando bem na cozinha 😄)
+    <td width="70%" valign="top">
+      <h3>👨‍🎨 Sobre mim</h3>
+      <ul>
+        <li>🎨 <strong>Artista Visual</strong> autodidata</li>
+        <li>👨‍💻 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> – Senac PE (2º período)</li>
+        <li>⚙️ Foco em <strong>Front-End</strong> e criações interativas com <code>código</code>, <code>imagem</code> e <code>som</code></li>
+        <li>👨‍🍳 <strong>Cozinheiro Profissional</strong> – 1430h pelo Senac (spoiler: mando bem na cozinha 😄)</li>
+        <li>💡 Curioso por <strong>projetos experimentais</strong>, interfaces criativas e tecnologias que conectam pessoas</li>
+      </ul>
     </td>
-    <td width="30%" align="right" style="border-left: 1px solid #ccc; padding-left: 15px;">
-      <img src="autorretrato.png" alt="Autorretrato Lucas M. Cunha" width="120" style="border-radius:8px;"/>
+    <td width="30%" align="center" style="border-left: 1px solid #ddd; padding-left: 15px;">
+      <img src="autorretrato.png" alt="Autorretrato Lucas M. Cunha" width="120" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"/><br/>
+      <sub><em>Lucas M. Cunha</em></sub>
     </td>
   </tr>
 </table>
