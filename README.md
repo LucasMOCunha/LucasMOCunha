@@ -35,7 +35,7 @@ Minha vivência periférica e dissidente alimenta meu olhar e meu código — ar
 ## 🛠️ Habilidades em prática
 
 **Linguagens e tecnologias**  
-JavaScript | HTML | CSS | Python | Ruby | SQL (MySQL, MSSQL)
+JavaScript | HTML | CSS | Python | Ruby | SQL (MySQL)
 
 **Ferramentas e plataformas**  
 Git & GitHub | Figma | Miro | Docker | Bootstrap  
